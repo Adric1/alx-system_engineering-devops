@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo -e "$(dirname $(realpath $0))\n"
+echo -e "$(dirname $(realpath $0))"
