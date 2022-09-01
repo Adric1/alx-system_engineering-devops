@@ -20,3 +20,14 @@ changes the working directory to the your home directory.
 Display current directory contents in a long format.
 
 
+## 4-listmorefiles ##
+
+Displays current directory contents, including hidden files (starting with .).
+
+
+## 5-listfilesdigitonly ##
+
+Displays current directory contents using lonf format, with user and group IDs displayed numerically and hidden files.
+
+
+##   ##
