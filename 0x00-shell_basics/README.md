@@ -62,6 +62,10 @@ Lists all files (even ones with names beginning with a period character, which a
 
 ## 12-file_type ##
 
+Prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+
+
+##  ##
 
 
 
