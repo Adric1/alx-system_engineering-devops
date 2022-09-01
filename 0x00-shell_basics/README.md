@@ -4,4 +4,8 @@
 
 prints the absolute path name of the current working directory.
 
-##   ##
+
+## 1-listit  ##
+
+Displays the content list of your current working directory
+
